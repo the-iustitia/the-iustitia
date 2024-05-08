@@ -3,7 +3,7 @@
 ![github_cover_banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5dccaf139668821.623369988a107.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am an enthusiastic developer who loves to code and create tools to help other developers write code more productively. Sometimes I make videos for the YouTube channel where I teach beginners. I like to do it, because: "Everyone in this country should learn to program, because it will teach you to think." I started coding in 8th grade. In the 9th grade, I participated in the web development olympiad. It's been a long time, but I still like programming
+    I am a dedicated developer, inspired by creation and innovation. I believe that programming is not only a profession, but also an art that allows you to create things that change the world. My passion for excellence is reflected in every line of code I write and in every tool I create to help other developers. Believing that every person in this country should master programming skills, I strive to share my knowledge because I believe it is a way to develop thinking and empowerment. My programming journey began in eighth grade, and since then I have continued to learn, grow, and inspire others with my professionalism and passion for creating
 <br>
 <br>
 <div align="center">
