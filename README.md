@@ -2,10 +2,6 @@
 
 ![github_cover_banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5dccaf139668821.623369988a107.gif)
 
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
