@@ -38,7 +38,6 @@
   </a>
   
   <div align="center">
-    
     <button onclick="window.location.href='mailto:musicturbo80@gmail.com';">Write to me</button>
   </div>
 
