@@ -63,6 +63,6 @@
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
     <a href="https://discord.gg/AzqbHTEYhJ" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="linkedin" width="40px"/>
+        <img style="margin:0 10px 10px 0;" src="https://w7.pngwing.com/pngs/580/137/png-transparent-discord-logo-thumbnail.png" alt="linkedin" width="40px"/>
     </a>
 </div>
