@@ -59,13 +59,10 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.youtube.com/channel/UCQtq25JTnTfsc9oOiAumTzA" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
-    </a>
-    <a href="mailto:gym4programming@gmail.com" target="_blank">
+    <a href="mailto:musicturbo80@gmail.com.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
-    <a href="https://www.linkedin.com/in/ilya-kuchma-286485282/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="linkedin" width="40px"/>
+    <a href="https://discord.gg/AzqbHTEYhJ" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="linkedin" width="40px"/>
     </a>
 </div>
