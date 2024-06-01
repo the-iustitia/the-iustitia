@@ -38,8 +38,9 @@
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"/> 
   </a>
     <div align="center">
-        [Email Me](mailto:python17js@gmail.com)
+        <a href="mailto:python17js@gmail.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007BFF; text-decoration: none; border-radius: 5px;">Email Me</a>
     </div>
+
 </div>
 <br>
 <br>
