@@ -34,10 +34,7 @@
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"/> 
   </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/3914/PNG/512/powershell_logo_icon_248791.png"/>
+      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-3521649-2945093.png?f=webp"/>
   </a>
   
   <div align="center">
