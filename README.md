@@ -2,27 +2,6 @@
 
 ![github_cover_banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5dccaf139668821.623369988a107.gif)
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    - JavaScript
-    - HTML
-    - CSS
-    - Bootstrap
-    - Python
-    - Git
-    - Visual Studio Code
-    - Figma
-    - Ruby
-<br>
-<br>
-<div align="center">
-
-[Email Me](mailto:python17js@gmail.com)
-</div>
-</p>    
-<br>
-<!-- Languages and Tools -->
-
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
@@ -58,6 +37,9 @@
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"/> 
   </a>
+    <div align="center">
+        [Email Me](mailto:python17js@gmail.com)
+    </div>
 </div>
 <br>
 <br>
