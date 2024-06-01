@@ -38,7 +38,8 @@
   </a>
   
   <div align="center">
-    <a href="mailto:python17js@gmail.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007BFF; text-decoration: none; border-radius: 5px;">Email Me</a>
+    
+    [<kbd> <br> Title <br> </kbd>](mailto:musicturbo80@gmail.com)
   </div>
 
 </div>
