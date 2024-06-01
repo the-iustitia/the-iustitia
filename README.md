@@ -39,7 +39,7 @@
   
   <div align="center">
     
-    [<kbd> <br> Title <br> </kbd>](mailto:musicturbo80@gmail.com)
+    <button onclick="window.location.href='mailto:musicturbo80@gmail.com';">Write to me</button>
   </div>
 
 </div>
