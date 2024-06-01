@@ -36,10 +36,6 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-3521649-2945093.png?f=webp"/>
   </a>
-  
-  <div align="center">
-    [Write to me](mailto:musicturbo80@gmail.com)
-  </div>
 
 </div>
 <br>
