@@ -58,7 +58,7 @@
     <a href="mailto:musicturbo80@gmail.com.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
-    <a href="https://discord.gg/AzqbHTEYhJ" target="_blank">
+    <a href="https://discord.gg/ytPhFVhF47" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.iconscout.com/icon/free/png-256/free-discord-3691244-3073764.png?f=webp" alt="linkedin" width="40px"/>
     </a>
 </div>
