@@ -2,9 +2,6 @@
 
 ![github_cover_banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5dccaf139668821.623369988a107.gif)
 
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -27,11 +24,17 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-3521649-2945093.png?f=webp"/>
@@ -50,10 +53,6 @@
 
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=KnightBits)](https://github.com/KnightBits)
 
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
     <a href="mailto:musicturbo80@gmail.com.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
