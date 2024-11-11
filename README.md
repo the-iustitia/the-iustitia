@@ -44,15 +44,6 @@
   </a>
 </div>
 <br>
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-[![GitHub Contribution](https://github-readme-streak-stats.herokuapp.com/?user=KnightBits)](https://github.com/KnightBits)
-
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=KnightBits)](https://github.com/KnightBits)
-
 <div class="footer" align="center" style="margin:15px;">
     <a href="mailto:musicturbo80@gmail.com.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
