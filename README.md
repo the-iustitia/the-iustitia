@@ -1,7 +1,11 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Knight </h1>
+# 👋 Hi, I'm MrNothing
 
-![github_cover_banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5dccaf139668821.623369988a107.gif)
+**About Me:**  
+I'm a versatile developer with a passion for creating tools and libraries that solve real-world problems.
 
+**Tech Stack:**  
+- Languages: **Ruby, JavaScript, HTML, CSS, Python, ASM, C++**
+- Tools: **VSCode, Vim, Bootstrap, Git, Bash, CMD**
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -43,12 +47,12 @@
     <img alt="Linux bash" height="50px" style="padding-right:10px;" src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" />
   </a>
 </div>
-<br>
-<div class="footer" align="center" style="margin:15px;">
-    <a href="mailto:musicturbo80@gmail.com.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-    <a href="https://discord.gg/ytPhFVhF47" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn.iconscout.com/icon/free/png-256/free-discord-3691244-3073764.png?f=webp" alt="linkedin" width="40px"/>
-    </a>
-</div>
+
+**Projects:**  
+- **[Atom](https://github.com/the-lord-nothing/Atom)** — my custom code editor
+- **[JustWrite](https://github.com/the-lord-nothing/JustWrite)** — a math library for Python and JavaScript
+
+**Connect:**  
+- Discord: [MrNothing](https://discord.gg/AredCcGjk7)
+
+Always open to collaboration and new ideas
