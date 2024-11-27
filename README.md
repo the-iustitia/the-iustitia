@@ -53,6 +53,6 @@ I'm a versatile developer with a passion for creating tools and libraries that s
 - **[JustWrite](https://github.com/the-lord-nothing/JustWrite)** — a math library for Python and JavaScript
 
 **Connect:**  
-- Discord: [MrNothing](https://discord.gg/AredCcGjk7)
+- Discord: https://discord.gg/AredCcGjk7
 
 Always open to collaboration and new ideas
