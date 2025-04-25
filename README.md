@@ -4,8 +4,8 @@
 I'm a versatile developer with a passion for creating tools and libraries that solve real-world problems.
 
 **Tech Stack:**  
-- Languages: **Ruby, JavaScript, HTML, CSS, Python, ASM, C++**
-- Tools: **VSCode, Vim, Bootstrap, Git, Bash, CMD**
+- Languages: **Ruby, JavaScript, HTML, CSS, Python, ASM, C++/C**
+- Tools: **VSCode, Vim, Bootstrap, Git, Bash, CMD, Figma, Web-Atom, AI**
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
