@@ -55,4 +55,10 @@ I'm a versatile developer with a passion for creating tools and libraries that s
 **Connect:**  
 - Discord: https://discord.gg/AredCcGjk7
 
+**Activity:**
+[![trophy](https://github-profile-trophy.vercel.app/?username=the-iustitia&theme=flat)](…)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=the-iustitia)](…)
+
+
 Always open to collaboration and new ideas
