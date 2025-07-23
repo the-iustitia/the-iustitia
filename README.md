@@ -50,9 +50,9 @@ I'm a versatile developer with a passion for creating tools and libraries that s
 
 **Projects:**  
 - **[Atom](https://github.com/the-lord-nothing/Atom)** — my custom code editor
-- **[JustWrite](https://github.com/the-lord-nothing/JustWrite)** — a math library for Python and JavaScript
+- **[Discord Bot](https://github.com/the-iustitia/Bee-Discord-Bot)** — discord bot for your server
 
 **Connect:**  
-- Discord: https://discord.gg/AredCcGjk7
+- Discord: https://discord.gg/kERheFhqj7
 
 Always open to collaboration and new ideas
