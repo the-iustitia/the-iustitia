@@ -56,3 +56,4 @@ I'm a versatile developer with a passion for creating tools and libraries that s
 - Discord: https://discord.gg/kERheFhqj7
 
 Always open to collaboration and new ideas
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-iustitia&theme=gotham)](https://git.io/streak-stats)
