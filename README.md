@@ -35,7 +35,7 @@ I'm a versatile developer with a passion for creating tools and libraries that s
     <img alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
   </a>
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
-    <img alt="Ruby" height="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzUGjwQ-CORNDjnVsOaO5-k07Ahc8tG4zzg&s" /> 
+    <img alt="Ruby" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" /> 
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img alt="C programming language" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -44,7 +44,7 @@ I'm a versatile developer with a passion for creating tools and libraries that s
     <img alt="PowerShell" height="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-3521649-2945093.png?f=webp" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
-    <img alt="Linux bash" height="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJCCmgnr0sR8LV6yOBOzXXiJS9rkrizhS1Gg&s"/>
+    <img alt="Linux bash" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/250px-Bash_Logo_black_and_white_icon_only.svg.png"/>
   </a>
 </div>
 
