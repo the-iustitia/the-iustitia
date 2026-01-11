@@ -44,7 +44,7 @@ I'm a versatile developer with a passion for creating tools and libraries that s
     <img alt="PowerShell" height="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-3521649-2945093.png?f=webp" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
-    <img alt="Linux bash" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/250px-Bash_Logo_black_and_white_icon_only.svg.png"/>
+    <img alt="Linux bash" height="50px" style="padding-right:10px;" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg"/>
   </a>
 </div>
 
